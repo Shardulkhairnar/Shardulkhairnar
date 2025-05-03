@@ -1,3 +1,66 @@
+<!-- 🚀 Funky Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Shardul+Khairnar+%F0%9F%91%8B;Data+Analyst+%7C+Web+Dev+%7C+Engineer+%F0%9F%9A%80;Give+me+a+job+already+%F0%9F%91%BA;Let's+build+cool+stuff+together!+%F0%9F%92%A1" alt="Typing animation" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+</p>
+
+---
+
+### 🤓 Who Am I?
+
+🧑‍💻 **Just a data nerd with a dream** — to turn numbers into knowledge and ideas into impact!  
+🎓 **M.S. in Big Data Analytics** — Trent University  
+🔍 Currently job-hunting like a detective in a crime show  
+💡 Fueled by ☕, Python, and curiosity
+
+---
+
+### 💼 What I’ve Been Up To:
+
+#### 🎯 **Data Analyst** – *Trent Careerspace*
+- Spied patterns in student engagement 📊
+- Created insights that help real people 🚀
+- Made dashboards so good, even Excel cried 😎
+
+#### 🛍️ **Giant Tiger Associate**
+- Ran the store floor like a command line  
+- Helped people, stocked shelves, and flexed multitasking muscles
+
+#### 🕸️ **Web Dev Intern @ Let’s Grow More**
+- Created 3 stunning sites (2 frontend, 1 fullstack)  
+- From bare HTML to PHP-SQL beast mode 🧙‍♂️
+
+---
+
+### 🧪 Cool Projects I’ve Cooked Up:
+
+| 🚀 Project | 🧠 What It Does |
+|-----------|----------------|
+| 🔥 **Churn Analysis** | Tells you which customers are ghosting your service & why 👻 |
+| 📉 **Stock Predictor** | Predicts Indian stock market trends like a magic 8-ball, but smarter 📈 |
+| 💊 **Medicine Donation Portal** | Connects people who need meds with those who have them — no middleman ❤️ |
+
+---
+
+### 🛠️ Tech Toolkit
+
+```yaml
+Languages: Python, SQL, HTML, CSS, PHP  
+Libraries: Pandas, NumPy, Scikit-learn, Matplotlib  
+Tools: Power BI, Excel, GitHub, Canva  
+Database: MySQL, SQLite  
+Other: Jupyter, VS Code, Bad Jokes 😅
+
+
+
+
+
+
+
+
 <!-- Banner Image -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750088-45f5c87a-e28f-49db-8d71-1c93420fbf57.gif" alt="Welcome Banner" width="100%"/>
