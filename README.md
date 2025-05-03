@@ -66,16 +66,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShardulKhairnar&show_icons=true&theme=default" alt="Shardul's GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShardulKhairnar&theme=default" alt="GitHub Streak"/>
-</p>
-
----
-
 ## 📬 Let’s Connect
 
 <p align="center">
