@@ -55,11 +55,11 @@
 
 ## 🛠️ Technical Skills
 
-| Category         | Tools & Technologies                                      |
+| Category         | Tools & Technologies                                       |
 |------------------|------------------------------------------------------------|
 | 💻 Languages     | Python, SQL, HTML, CSS, PHP                                |
 | 📦 Libraries     | Pandas, NumPy, Scikit-learn, Matplotlib                    |
-| 🛢️ Databases    | SQL (MySQL, SQLite)                                        |
+| 🛢️ Databases     | SQL                                                        |
 | 📊 BI Tools      | Power BI, Excel                                            |
 | 🔧 Other Tools   | GitHub, Canva, VS Code, Jupyter Notebook                   |
 
