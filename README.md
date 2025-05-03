@@ -1,153 +1,66 @@
-<!-- 🚀 Funky Banner -->
+<!-- 🎉 HEADER BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Shardul+Khairnar+%F0%9F%91%8B;Data+Analyst+%7C+Web+Dev+%7C+Engineer+%F0%9F%9A%80;Give+me+a+job+already+%F0%9F%91%BA;Let's+build+cool+stuff+together!+%F0%9F%92%A1" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F76A05&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Shardul+Khairnar!+%F0%9F%91%8B;Data+Lover+%F0%9F%92%B0+%7C+Web+Wizard+%F0%9F%AA%84+%7C+Code+Crafter+%F0%9F%94%A5;Give+me+a+job+already+%F0%9F%99%8F+I'm+ready+to+rock!+%F0%9F%8E%B8" alt="Typing header" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
-</p>
-
----
-
-### 🤓 Who Am I?
-
-🧑‍💻 **Just a data nerd with a dream** — to turn numbers into knowledge and ideas into impact!  
-🎓 **M.S. in Big Data Analytics** — Trent University  
-🔍 Currently job-hunting like a detective in a crime show  
-💡 Fueled by ☕, Python, and curiosity
-
----
-
-### 💼 What I’ve Been Up To:
-
-#### 🎯 **Data Analyst** – *Trent Careerspace*
-- Spied patterns in student engagement 📊
-- Created insights that help real people 🚀
-- Made dashboards so good, even Excel cried 😎
-
-#### 🛍️ **Giant Tiger Associate**
-- Ran the store floor like a command line  
-- Helped people, stocked shelves, and flexed multitasking muscles
-
-#### 🕸️ **Web Dev Intern @ Let’s Grow More**
-- Created 3 stunning sites (2 frontend, 1 fullstack)  
-- From bare HTML to PHP-SQL beast mode 🧙‍♂️
-
----
-
-### 🧪 Cool Projects I’ve Cooked Up:
-
-| 🚀 Project | 🧠 What It Does |
-|-----------|----------------|
-| 🔥 **Churn Analysis** | Tells you which customers are ghosting your service & why 👻 |
-| 📉 **Stock Predictor** | Predicts Indian stock market trends like a magic 8-ball, but smarter 📈 |
-| 💊 **Medicine Donation Portal** | Connects people who need meds with those who have them — no middleman ❤️ |
-
----
-
-### 🛠️ Tech Toolkit
-
-```yaml
-Languages: Python, SQL, HTML, CSS, PHP  
-Libraries: Pandas, NumPy, Scikit-learn, Matplotlib  
-Tools: Power BI, Excel, GitHub, Canva  
-Database: MySQL, SQLite  
-Other: Jupyter, VS Code, Bad Jokes 😅
-
-
-
-
-
-
-
-
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750088-45f5c87a-e28f-49db-8d71-1c93420fbf57.gif" alt="Welcome Banner" width="100%"/>
-</p>
-
-<h1 align="center">👋 Hi there, I'm Shardul Khairnar!</h1>
-<p align="center"><strong>I hope you're here checking my profile to give me a JOB!!! 💼</strong></p>
-
-<p align="center">
-  🎓 Computer Engineer | 📊 Data Analyst | 🌐 Web Developer <br/>
-  📍 Canada | 💼 Open to Work | 🧠 Lifelong Learner
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120">
 </p>
 
 ---
 
-## 🔍 About Me
+## ✨ Meet the Human Behind the Code
 
-- 🎓 **Recent Graduate**: M.S. in Big Data Analytics — **Trent University**, Canada  
-- 💡 **Skilled in**: Python, SQL, Machine Learning, Data Visualization, Web Development  
-- 🛠️ **Tech Stack**: Python | Pandas | Scikit-learn | HTML | CSS | PHP | SQL | Power BI  
-- 🧪 **Interested in**: Data Science, Business Analytics, AI for Social Impact
+Name      : Shardul Khairnar
+Location  : Canada 🍁
+Mission   : Turning data chaos into clarity 🔍
+Hustling  : Yes. Always. 💼
+🎓 M.S. in Big Data Analytics from Trent University
+💡 Obsessed with data, dashboards, and coffee ☕
+📈 Strong with Python, SQL, Power BI — and puns 😅
+🌟 Let’s build, break, and fix cool things together!
 
----
+🚀 My Powers (aka Skills)
+🔧 Category	🚀 Skills
+👨‍💻 Languages	Python, SQL, HTML, CSS, PHP
+🧠 Libraries	Pandas, NumPy, Scikit-learn, Matplotlib
+📊 BI Tools	Power BI, Excel
+🗄️ Databases	MySQL, SQLite
+🧰 Tools	GitHub, Jupyter, Canva, VS Code
 
-## 💼 Experience
+<p align="center"> <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" /> </p>
+💼 Work That Made Me Who I Am
+🔍 Data Analyst — Trent Careerspace
+Survey whisperer 📋📊: turned raw data into insights
 
-### 📊 Data Analyst — *Trent University Careerspace*
-- Analyzed student engagement survey data to uncover trends in service usage and professional development perceptions.
-- Delivered actionable insights on how students interact with Career Services and suggested improvements.
-- Worked closely with leadership to support strategic decisions via reporting and visualization.
+Created dashboards & reports that actually made sense 😎
 
-### 🏪 Store Associate — *Giant Tiger, Peterborough*
-- Hands-on retail and customer support experience with a focus on teamwork, accuracy, and inventory handling.
+Helped leadership see trends they never knew existed 🧠
 
-### 💻 Web Development Intern — *Let’s Grow More*
-- Developed 3 functional websites:  
-  - 2 Frontend-only (HTML + CSS)  
-  - 1 Fullstack (HTML + CSS + PHP + SQL)  
-- Practiced UI/UX principles and clean code architecture.
+🧑‍💼 Store Associate — Giant Tiger
+Master of multitasking 🛒
 
----
+Solved customer problems faster than you can say "barcode"
 
-## 📊 Featured Projects
+Team player with aisle-mazing energy!
 
-- 🔍 **Churn Analysis for PowerCo**  
-  Used Python and feature engineering to detect customer churn drivers.
+💻 Web Dev Intern — Let’s Grow More
+Built 3 live websites 🧱:
 
-- 📈 **Stock Market Trend Predictor**  
-  Predicted Indian stock price trends using regression models and ML libraries.
+2 → pure frontend magic (HTML + CSS)
 
-- 💊 **Online Medicine Donation System**  
-  Built a location-aware donation portal connecting donors to patients directly.
+1 → fullstack beast (PHP + SQL + frontend)
 
----
+Learned that divs can be divas 🤯
 
-## 🛠️ Technical Skills
+🔬 Projects That Slap
+💡 Project	🔥 Description
+🧠 Churn Analysis	Used ML to find out why customers bounce — like real detectives 🕵️‍♂️
+📈 Stock Market Predictor	ML-based forecast tool for Indian market 📊 — smarter than fortune cookies
+💊 Medicine Donation System	Matched medicine donors with those in need 🌍 using location-based search
 
-| Category         | Tools & Technologies                                       |
-|------------------|------------------------------------------------------------|
-| 💻 Languages     | Python, SQL, HTML, CSS, PHP                                |
-| 📦 Libraries     | Pandas, NumPy, Scikit-learn, Matplotlib                    |
-| 🛢️ Databases     | SQL                                                        |
-| 📊 BI Tools      | Power BI, Excel                                            |
-| 🔧 Other Tools   | GitHub, Canva, VS Code, Jupyter Notebook                   |
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShardulKhairnar&show_icons=true&theme=default" alt="Shardul's GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShardulKhairnar&theme=default" alt="GitHub Streak"/>
-</p>
-
----
-
-## 📬 Let’s Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/shardulkhairnar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:shardulmkhairnar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/ShardulKhairnar"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-<p align="center">
-  <em>“Data is a precious thing and will last longer than the systems themselves.” – Tim Berners-Lee</em>
-</p>
+📊 My GitHub Vibes
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ShardulKhairnar&show_icons=true&theme=tokyonight" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShardulKhairnar&theme=tokyonight" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShardulKhairnar&layout=compact&theme=tokyonight" /> </p>
+📫 Hit Me Up!
+<p align="center"> <a href="https://www.linkedin.com/in/shardulkhairnar/"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:shardulmkhairnar@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/ShardulKhairnar"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
+<p align="center"> <strong>“Data is a precious thing and will last longer than the systems themselves.”</strong> – Tim Berners-Lee <br/> <em>PS: If you scrolled this far… just hire me already 😄</em> </p> ```
