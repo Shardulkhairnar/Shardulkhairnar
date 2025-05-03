@@ -1,5 +1,7 @@
 # 👋 Hi there, I'm Shardul Khairnar!
 
+**I hope you are here checking my profile to Give me a JOB !!!**
+
 🎓 Computer Engineer | 📊 Data Analyst | 🌐 Web Developer  
 📍 Based in Canada | 💼 Open to work | 🧠 Lifelong Learner
 
@@ -14,7 +16,9 @@
 
 ---
 
-## 💼 Experience
+## 💼 Experience:
+
+### 
 
 ### 🏪 Store Associate — Giant Tiger, Peterborough  
 *Retail and customer service experience with focus on teamwork and efficiency.*
@@ -24,8 +28,6 @@
   - 2 Frontend-only (HTML + CSS)  
   - 1 Fullstack (HTML + CSS + PHP + SQL)
 
-### 🎨 Manager & Social Media Manager — Decorhub.in (Part-time Project)  
-- Managing content, posts, and engagement for an e-commerce decor brand.
 
 ---
 
@@ -44,11 +46,11 @@
 
 ## 🛠️ Skills
 
-| Category            | Tools/Technologies                         |
+| Category            | Tools/Technologies                          |
 |---------------------|---------------------------------------------|
 | Languages           | Python, SQL, HTML, CSS, PHP                 |
 | Libraries/Tools     | Pandas, NumPy, Scikit-learn, Matplotlib     |
-| Database            | MySQL, SQLite                               |
+| Database            | SQL                                         |
 | BI Tools            | Power BI                                    |
 | Other               | GitHub, Excel, Canva                        |
 
@@ -58,7 +60,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/shardul-khairnar/)
 - 🐙 [GitHub](https://github.com/ShardulKhairnar)
-- 📧 Email: shardulkhairnar24@gmail.com
+- 📧 Email: shardulmkhairnar@gmail.com
 
 ---
 
