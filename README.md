@@ -58,7 +58,7 @@
 
 ## 📬 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/shardul-khairnar/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/shardulkhairnar/).
 - 🐙 [GitHub](https://github.com/ShardulKhairnar)
 - 📧 Email: shardulmkhairnar@gmail.com
 
