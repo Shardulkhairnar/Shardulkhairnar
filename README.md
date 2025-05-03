@@ -8,22 +8,25 @@
 <p align="center"><strong>I hope you're here checking my profile to give me a JOB!!! 💼</strong></p>
 
 <p align="center">
-  🎓 Computer Engineer | 📊 Data Analyst | 🌐 Web Developer <br/>
-  📍 Canada | 💼 Open to Work | 🧠 Lifelong Learner
+  🎓 Computer Engineer | 📊 Data Analyst | 📊 Business Analyst |🌐 Web Developer <br/>
+  📍 Peterborough, Canada | 💼 Open to Work | 🧠 Lifelong Learner
 </p>
 
 ---
 
 ## 🔍 About Me
 
-- 🎓 **Recent Graduate**: M.S. in Big Data Analytics — **Trent University**, Canada  
+- 🎓 M.S. in Big Data Analytics — **Trent University**, Canada
+- 🎓 Computer Engineering — **Savitribai Phule Pune University**, India    
 - 💡 **Skilled in**: Python, SQL, Machine Learning, Data Visualization, Web Development  
-- 🛠️ **Tech Stack**: Python | Pandas | Scikit-learn | HTML | CSS | PHP | SQL | Power BI  
-- 🧪 **Interested in**: Data Science, Business Analytics, AI for Social Impact
-
+- 🛠️ **Tech Stack**: Python | Pandas | Scikit-learn | SQL | Power BI | HTML | CSS | PHP 
+- 🧪 **Interested in**: Data Science, Business Analytics, AI for Social Impact, Machine Learning
+- 💡 **Analytical Skills**: Data Modelling, Data Cleaning, Data Visualization, Sentiment Analysis, ETL,
+                             KPI tracking, Data Wrangling, Data Warehousing, Business Intelligence, Data storytelling, 
+                             Trend Analysis, Statistical Analysis, Process Optimization, Business Analysis
 ---
 
-## 💼 Experience
+## 💼 Experience :
 
 ### 📊 Data Analyst — *Trent University Careerspace*
 - Analyzed student engagement survey data to uncover trends in service usage and professional development perceptions.
