@@ -18,10 +18,15 @@
 
 ## 💼 Experience:
 
-### 
+### 📊 Data Analyst — Trent University Careerspace
+- Analyzed student engagement survey data to uncover trends in service usage and professional development perceptions.
+- Delivered actionable insights on how students interact with Career Services and suggested improvements.
+- Worked closely with leadership to support strategic decisions through data reporting and visualization.
+
 
 ### 🏪 Store Associate — Giant Tiger, Peterborough  
 *Retail and customer service experience with focus on teamwork and efficiency.*
+
 
 ### 💻 Web Development Intern — Let's Grow More  
 - Built 3 websites:  
